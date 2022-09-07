@@ -1,0 +1,28 @@
+
+			.moez,h2 {
+			  color: aqua;
+			  font: sans-serif;
+			}
+			h2 {
+			  color: darkblue;
+			  font: small;
+			}
+            a:link {
+                color: tomato;
+            }
+      
+            /* visited link */
+            a:visited {
+                color: rgb(18, 157, 48);
+            }
+      
+            /* mouse over element */
+            div:hover {
+                color: tomato;
+            } 
+      
+            /* selected link */
+            a:active{
+                color: #0000FF
+            }
+	
